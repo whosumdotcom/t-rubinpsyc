@@ -1,0 +1,32 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-07T23:47:53Z",
+  "IdClaims": [
+    {
+      "Claim": "t:rubinpsyc"
+    },
+    {
+      "Claim": "mdon:@markrubin@fediscience.org"
+    },
+    {
+      "Claim": "med:rubinpsyc"
+    },
+    {
+      "Claim": "spout:markrubin"
+    },
+    {
+      "Claim": "gh:rubinpsyc"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "2fb09aa0198ef589dca712b4",
+    "Timestamp": "2023-04-08T00:05:32Z",
+    "Signature": "6459b6c4b26c223819cf8dc570c7c5fbab5fd6b3265d61c5ad7bb87ef9ff5a9789067eea8b750cb6d96b06cfbfdd4b47faac1c587f38fa0a7ff6974fc8dd059c80e9c3f7b8aecd52d43918f0f299be915e3a428f5d78407ed15d6ff98d9e1648aec02579990947773141c1362dabcb086444f46c41a12ef2836d1a2c3a64e29f7db4615abed50e651402bde402663a81cbf80770ac9aa713eac4b5fc9bf147dd927132979d696528a407e95cd2036efab346995d51ec26adc07f98cabd8315515492c04291176ff2650f48408b7bd9b0dc984579ef4bbb4db81a9f7e33227c3aca950ca65552e36fc25562e9c6679cce89a0245ce966d461c3b6de25dd160900"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "7b9041bd807bebffacc0089202f334ab0761f71b2f7002ae7ddbbd9550b33dbd",
+  "ContentToHash": "v1|gh:rubinpsyc,mdon:@markrubin@fediscience.org,med:rubinpsyc,spout:markrubin,t:rubinpsyc|2023-04-07T23:47:53Z"
+}
